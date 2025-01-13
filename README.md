@@ -31,4 +31,4 @@
 <h3 align="left">My Stats in Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="c" width="20" height="20"/></h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2ymenzitouni&show_icons=true&locale=en" alt="2ymenzitouni" /></p>
 <h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="90" height="30"/></h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" /></a></p>
