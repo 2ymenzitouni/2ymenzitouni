@@ -38,7 +38,7 @@
 
 <p>
   <h3>My Stats in Github & LeetCode</h3>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=2ymenzitouni&show_icons=true&locale=en" alt="2ymenzitouni" /><img height="200" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" />
+  <img align="left" width="250" src="https://github-readme-stats.vercel.app/api?username=2ymenzitouni&show_icons=true&locale=en" alt="2ymenzitouni" /><img width="250" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" />
 </p>
 
 
