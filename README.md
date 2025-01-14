@@ -39,8 +39,4 @@
 <a href="https://github.com/2ymenzitouni?tab=repositories"><img align="center" src="https://drive.google.com/uc?id=1FiIwdgTm7uNXNwK7PDHyKw1g5E4fsdaz" /></a>
 
 <h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3><p><a href="https://leetcode.com/u/2ymenzitouni/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" /></a></p>
-
-<a align="left">
-<h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" />
-</a><a align="right"><h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" />
-</a>
+<a>hello</a><a>Zitouni</a>
