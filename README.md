@@ -30,5 +30,11 @@
 
 <h3 align="left">My Stats in Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="c" width="20" height="20"/></h3>
 <p>&nbsp;<a href="https://github.com/2ymenzitouni" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2ymenzitouni&show_icons=true&locale=en" alt="2ymenzitouni" /></a></p>
-<h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="90" height="30"/></h3>
+<h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3>
 <p><a href="https://leetcode.com/u/2ymenzitouni/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" /></a></p>
+
+### My Favourite Projects ❤️
+<a href="https://www.facebook.com"><img src="https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/b2c74200-8da7-439a-95b6-9cad1aa18742-4445-dubai-img-worlds-of-adventure-tickets-02.jpeg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10" alt="Image 1" height="200"></a> <!-- imgage1 -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/b2c74200-8da7-439a-95b6-9cad1aa18742-4445-dubai-img-worlds-of-adventure-tickets-02.jpeg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10" alt="Image 2" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/b2c74200-8da7-439a-95b6-9cad1aa18742-4445-dubai-img-worlds-of-adventure-tickets-02.jpeg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10" alt="Image 3" height="200"> <img src="https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/b2c74200-8da7-439a-95b6-9cad1aa18742-4445-dubai-img-worlds-of-adventure-tickets-02.jpeg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10" alt="Image 3" height="200">
+
+
+
