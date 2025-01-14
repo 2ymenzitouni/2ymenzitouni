@@ -35,9 +35,12 @@
 <!-- row-1-->
 <a href="https://www.facebook.com"><img src="https://drive.google.com/uc?id=1gdydPr8KU3zBM2Lt2__AgVPIHLNBOh5z" alt="Image 1" width="250"></a> <!-- project2 -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com"><img src="https://drive.google.com/uc?id=1kAdyQeAkhQLq9kQrdNn71lgvE3hcNAto" alt="Image 1" width="250"></a> <!-- project3 -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com"><img src="https://drive.google.com/uc?id=194h1kAXJfjpuf-SJy94XRWyuJu9dRZu8" alt="Image 1" width="250"></a> <!-- project4 -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com"><img src="https://drive.google.com/uc?id=1iUxNVinDZKCSvxGYecd_0DYSYbTj1cNZ" alt="Image 1" width="250"></a>
 
-<--! view all repositories-->
+<--! view all repositories -->
 <a href="https://github.com/2ymenzitouni?tab=repositories"><img align="center" src="https://drive.google.com/uc?id=1FiIwdgTm7uNXNwK7PDHyKw1g5E4fsdaz" /></a>
 
 <h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3><p><a href="https://leetcode.com/u/2ymenzitouni/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" /></a></p>
 
-
+<a align="left">
+  <h3 align="left">View My LeetCode Stats <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="c" width="100" height="30"/></h3>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2ymenzitouni&" alt="2ymenzitouni" />
+</a>
